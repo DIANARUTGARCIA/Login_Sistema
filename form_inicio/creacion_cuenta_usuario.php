@@ -55,10 +55,7 @@
                   <div class="d-grid">
                       <button type="submit" class="btn btn-danger btn-block">REGISTRATE</button>
                   </div>
-                  <div class=" text-center my-3"> 
-                     <span><a style="color:black; text-decoration:none" href="recuperar_clave.php">¿Olvidaste tu usuario o contrase&ntilde;a? </a></span>
-                     </br>
-                   </div>
+                  
               </form>
             </div>
         </div>
